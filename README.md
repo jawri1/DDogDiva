@@ -5,11 +5,11 @@
 		<link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
  <!--  Create Home Page -->
 
+<head> 
+
 <title>D Dog Diva
   
 </title>
-<head> 
-  
   
   <h1>Greeting for 'header 1'</h1>
 </head>
